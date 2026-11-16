@@ -41,7 +41,7 @@ SUGGESTIONS = {
 }
 
 WELCOME = (
-    "Ask me anything about **returns, bulk discounts, supplier terms, "
+    "Ask me all you can **returns, bulk discounts, supplier terms, "
     "shipping, warranties, or gift cards** — answers come straight from "
     "the store's policy documents."
 )
