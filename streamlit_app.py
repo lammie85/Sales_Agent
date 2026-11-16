@@ -12,7 +12,7 @@ from rag.config import DATA_FILE_PATH, ConfigError
 from rag.pipeline import Pipeline, ask_assistant, build_pipeline, stream_answer
 
 st.set_page_config(
-    page_title="Inventory & Sales Bot",
+    page_title="ACME Sales Bot",
     page_icon="📦",
     layout="centered",
 )
